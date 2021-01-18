@@ -60,7 +60,7 @@
     ms-transform-origin: center;
     webkit-transform-origin: center;
     transform-origin: center;
-    background-image: url(assets/constitutionAssests01d65400bf.png);
+    background-image: url("main/constitutionAssests01d65400bf.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
