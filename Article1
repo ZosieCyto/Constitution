@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Article I - What the Consitution Means to Us</title>
+</head>
+
+<body>
+<nav>
+  <a href="">
+  <a href="">
+  <a href="">
+  <a href="">
+</nav>
+
+<section id="article-top">
+  <img src="">
+  <img src="">
+  <h1>Article I</h1>
+  <img src="">
+  <button>Check Out the Foums</button>
+</section>
+
+<section id="article-content">
+  <div class"section-title">
+    <h2 class="section-number">Section 1</h2>
+    <img src="">
+  </div>
+  <div class"section-content">
+    <p class="section-number">All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.</p>
+    <img src="">
+  </div>
+</section>
+
+<footer>
+</footer>
+
+</body>
+
+</html>
